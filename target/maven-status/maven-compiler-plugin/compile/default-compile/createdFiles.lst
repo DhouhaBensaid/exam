@@ -1,0 +1,14 @@
+com\gestionexamens\model\Matiere.class
+com\gestionexamens\model\Role.class
+com\gestionexamens\model\Enseignant.class
+com\gestionexamens\model\ERole.class
+com\gestionexamens\model\User.class
+com\gestionexamens\model\Niveau.class
+com\gestionexamens\model\Specialite.class
+com\gestionexamens\model\Examen.class
+com\gestionexamens\model\Etudiant.class
+com\gestionexamens\model\Salle.class
+com\gestionexamens\repository\SurveillanceRepository.class
+com\gestionexamens\model\Presence.class
+com\gestionexamens\model\Surveillance.class
+com\gestionexamens\model\Affectation.class
